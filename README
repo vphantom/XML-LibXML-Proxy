@@ -1,5 +1,7 @@
 # XML-LibXML-Proxy v0.1.0
 
+[![Build Status](https://travis-ci.org/vphantom/XML-LibXML-Proxy.svg?branch=v0.1.0)](https://travis-ci.org/vphantom/XML-LibXML-Proxy)
+
 Force LibXML to use a proxy for HTTP/HTTPS external entities.
 
 ## INSTALLATION
